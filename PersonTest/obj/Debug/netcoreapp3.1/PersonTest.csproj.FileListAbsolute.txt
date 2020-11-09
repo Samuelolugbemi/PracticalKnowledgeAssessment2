@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\bin\Debug\netcoreapp3.1\PersonTest.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PersonTest\obj\Debug\netcoreapp3.1\PersonTest.pdb

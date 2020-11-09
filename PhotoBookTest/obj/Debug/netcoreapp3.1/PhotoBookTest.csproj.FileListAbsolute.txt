@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\bin\Debug\netcoreapp3.1\PhotoBookTest.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\bin\Debug\netcoreapp3.1\PhotoBookTest.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\bin\Debug\netcoreapp3.1\PhotoBookTest.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\bin\Debug\netcoreapp3.1\PhotoBookTest.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\bin\Debug\netcoreapp3.1\PhotoBookTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\bin\Debug\netcoreapp3.1\PhotoBookTest.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\obj\Debug\netcoreapp3.1\PhotoBookTest.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\obj\Debug\netcoreapp3.1\PhotoBookTest.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\obj\Debug\netcoreapp3.1\PhotoBookTest.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\obj\Debug\netcoreapp3.1\PhotoBookTest.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\PracticalKnowledgeAssessment2\PhotoBookTest\obj\Debug\netcoreapp3.1\PhotoBookTest.pdb
