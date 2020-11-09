@@ -17,7 +17,7 @@ namespace VehicleTest
                 Console.WriteLine("The Car is Driving");
             } else
             {
-                throw new Exception("Car needs gasolie to drive");
+                throw new Exception("Car needs gasoline to drive");
             }
         }
         public bool Refuel(int amountGas)
